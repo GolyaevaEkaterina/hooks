@@ -1,0 +1,8 @@
+.btn{
+  background-color: blueviolet;  
+  padding: 7px 15px 7px 15px;
+  font-weight: 600;
+  border-radius: 2px;
+  color: aliceblue;
+  @apply text-3xl px-6 py-3 mt-20
+}
